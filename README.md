@@ -1,4 +1,4 @@
-# drugtargetordb
+# drugtargetor: javascript backbone v1.21
 
 ### This repository includes files powering drugtargetor.com.
 
