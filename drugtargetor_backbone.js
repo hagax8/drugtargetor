@@ -1084,7 +1084,7 @@ function drawCanvasAndTable() {
             tooltiptext =
                 "red connection = decreases gene expression";
             $('#tooltip-span').html(tooltiptext);
-        } else if (hex == "#00ff00") {
+        } else if (hex == "#008000") {
             tooltipSpan.style.visibility = "visible";
             tooltiptext =
                 "green connection = increases gene expression";
